@@ -14,10 +14,7 @@ Before running the application, ensure that your system meets the following requ
 ### How to Build and Run the Application
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-repo/ticketing-system.git
-   ```
-   ```bash
-   cd ticketing-system
+   git clone https://github.com/thecoder-9/real-time_eventTicketingSystem_oop2nd_year_project95044.git
    ```
 
 2. **Build the Project:**
